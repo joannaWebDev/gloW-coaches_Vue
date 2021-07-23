@@ -1,22 +1,22 @@
 ## Planning a Vue App
-<img src="./planning_the_app.png" />    
+<img src="./snapshots/planning_the_app.png" />    
 
 </br>  
 ------  
 ## Data
-<img src="./data.png" />  
+<img src="./snapshots/data.png" />  
 
 </br>  
 ------  
 ## Layout
-<img src="./layout.png" />  
+<img src="./snapshots/layout.png" />  
 
 </br>  
 ------  
 
 ------  
 ## Auth in Vue / SPA Apps
-<img src="./auth.png" />  
+<img src="./snapshots/auth.png" />  
 
 Read more about Firebase auth<a href="https://firebase.google.com/docs/reference/rest/auth">https://firebase.google.com/docs/reference/rest/auth</a>
 
@@ -25,14 +25,14 @@ Read more about Firebase auth<a href="https://firebase.google.com/docs/reference
 
 ------  
 ## Creating Deployable Resources
-<img src="./deployable.png" />  
+<img src="./snapshots/deployable.png" />  
 
 </br>  
 ------  
 
 ------  
 ## SPA's & Routing
-<img src="./routing.png" />  
+<img src="./snapshots/routing.png" />  
 
 </br>  
 ------  
