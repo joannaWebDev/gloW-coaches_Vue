@@ -44,4 +44,4 @@ Read more about Firebase auth<a href="https://firebase.google.com/docs/reference
 
 
 ## Live at
-<a href="" target="_blank">Netlify</a> 
+<a href="https://find-a-coach-vue-2a71e.web.app/coaches" target="_blank">https://find-a-coach-vue-2a71e.web.app/coaches</a> 
